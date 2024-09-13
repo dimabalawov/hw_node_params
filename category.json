@@ -1,0 +1,7 @@
+[
+    { "name": "electronics", "value": "Electronics" },
+    { "name": "toys", "value": "Toys" },
+    { "name": "cancelary", "value": "Cancelary" },
+    { "name": "books", "value": "Books" },
+    { "name": "drinks", "value": "Drinks" }
+]

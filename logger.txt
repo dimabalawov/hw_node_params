@@ -1,0 +1,4 @@
+Address : ::1; Time: 13.09.2024, 14:26:45; URL : /
+Address : ::1; Time: 13.09.2024, 14:28:15; URL : /category/samsung
+Address : ::1; Time: 13.09.2024, 14:28:17; URL : /category
+Address : ::1; Time: 13.09.2024, 14:28:29; URL : /products/samsung

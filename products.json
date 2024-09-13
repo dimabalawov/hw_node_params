@@ -1,0 +1,18 @@
+[
+    { "name": "hp", "description": "Hewlett-Packard" },
+    { "name": "apple", "description": "Apple Inc." },
+    { "name": "hp", "description": "HP Laptop" },
+    { "name": "dell", "description": "Dell Technologies" },
+    { "name": "samsung", "description": "Samsung Electronics" },
+    { "name": "lenovo", "description": "Lenovo Group Ltd." },
+    { "name": "sony", "description": "Sony Corporation" },
+    { "name": "asus", "description": "ASUS Computers" },
+    { "name": "microsoft", "description": "Microsoft Corporation" },
+    { "name": "acer", "description": "Acer Inc." },
+    { "name": "google", "description": "Google LLC" },
+    { "name": "huawei", "description": "Huawei Technologies" },
+    { "name": "xiaomi", "description": "Xiaomi Corporation" },
+    { "name": "lg", "description": "LG Electronics" },
+    { "name": "nvidia", "description": "NVIDIA Corporation" },
+    { "name": "amd", "description": "Advanced Micro Devices" }
+]
